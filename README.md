@@ -25,7 +25,7 @@ After that, use `Git bash` to run all commands if you are on Windows platform.
 In order to start the project use:
 
 ```bash
-$ git clone https://github.com/tmokhele/chatapp.git
+$ git clone https://github.com/Tebza563/chat.git
 $ cd Chat/Chat
 ```
 
